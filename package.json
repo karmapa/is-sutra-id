@@ -1,0 +1,19 @@
+{
+  "name": "is-sutra-id",
+  "version": "0.0.0",
+  "description": "",
+  "main": "isSutraId.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmapa/is-sutra-id.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmapa/is-sutra-id/issues"
+  },
+  "homepage": "https://github.com/karmapa/is-sutra-id#readme"
+}
