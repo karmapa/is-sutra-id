@@ -5,5 +5,5 @@ module.exports = function isSutraId(str) {
    * degetengyur: DT1
    * 8thkarmapa: 8K1
    */
-  return /^[0-9A-Za-z]+\d+[a-z]?$/.test(str);
+  return /^[0-9]*[A-Za-z]+\d+[a-z]?$/.test(str);
 }
