@@ -1,6 +1,6 @@
 {
   "name": "is-sutra-id",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "isSutraId.js",
   "scripts": {
